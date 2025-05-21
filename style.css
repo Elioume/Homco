@@ -2,6 +2,8 @@
     margin: 0;
 } enlève toute les marges */
 
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
 .gris {
     background-color: #959595;
 }
@@ -20,6 +22,9 @@ h1{
 
 h2{
     font-size: 45px;
+    font-family: "Caveat", cursive;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 h3 {
